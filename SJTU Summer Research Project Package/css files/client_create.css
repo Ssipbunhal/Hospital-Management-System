@@ -1,0 +1,64 @@
+.icon{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+
+.create-page{
+    background-color: #87CEEB;
+    width: 30%;
+    display: block;
+    margin: auto;
+    padding: 1px;
+    text-align: center;
+    border-radius: 0px;
+}
+
+.create-page h1{
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.create-page input{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+}
+
+.create-page textarea{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    width: 300px;
+    height: 100px;
+    border-radius: 0px;
+    border: none;
+}
+
+
+button{
+    margin-top: 15px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+
+button:hover{
+    opacity: 0.8;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,128 @@
+.icon{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+
+.icon-banner button{
+    margin-top: 10px;
+    background-color:#87CEEB;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+
+.icon-banner button:hover{
+    background-color: #6495ED;
+    cursor: pointer;
+}   
+
+h1{
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.physician-view-appointment{
+    background-color: #87CEEB;
+    width: 30%;
+    display: block;
+    margin:auto;
+    padding: 1px;
+    text-align: center;
+    border-radius: 0px;
+}
+
+.physician-view-appointment h1{
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 0px; 
+}
+
+.icon2{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    padding: 0px;
+    
+}
+
+.physician-view-appointment button{
+    margin-top: 15px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
+.physician-view-appointment button:hover{
+    opacity: 0.8;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+
+
+.physician-upload-test{
+    background-color: #87CEEB;
+    width: 30%;
+    display: block;
+    margin-top: 15px;
+    margin-left: 35%;
+    padding: 1px;
+    text-align: center;
+    border-radius: 0px;
+}
+
+.physician-upload-test h1{
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 0px; 
+}
+
+.icon3{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    padding: 0px;
+    
+}
+
+.physician-upload-test button{
+    margin-top: 15px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
+.physician-upload-test button:hover{
+    opacity: 0.8;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,83 @@
+.icon{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+
+.login{
+    background-color: #87CEEB;
+    width: 30%;
+    display: block;
+    margin: auto;
+    padding: 1px;
+    text-align: center;
+    border-radius: 0px;
+}
+
+.login h1{
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+
+.login input{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+}
+
+.login a{
+    margin-top: 15px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+
+button{
+    margin-top: 15px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+
+button:hover{
+    opacity: 0.8;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+.address{
+    color: white;
+    font-family: Helvetica;
+    font-size: 8px;
+    margin-top: 170px;
+}
+
+.info{
+    color: white;
+    font-family: Helvetica;
+    font-size: 8px;
+    margin-top: 50px;
+}
+
+.contact{
+    color: white;
+    font-family: Helvetica;
+    font-size: 8px;
+    margin-top: 10px;
+}
+

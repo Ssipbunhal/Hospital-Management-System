@@ -1,0 +1,128 @@
+.icon{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+
+.icon-banner button{
+    margin-top: 10px;
+    background-color:#87CEEB;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+}
+
+.icon-banner button:hover{
+    background-color: #6495ED;
+    cursor: pointer;
+}
+
+h1{
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.doctor-view-appintment-and-test-results{
+    background-color: #87CEEB;
+    width: 30%;
+    display: block;
+    margin:auto;
+    padding: 1px;
+    text-align: center;
+    border-radius: 0px;
+}
+
+.doctor-view-appintment-and-test-results h1{
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 0px; 
+}
+
+.icon2{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    padding: 0px;
+    
+}
+
+.doctor-view-appintment-and-test-results button{
+    margin-top: 15px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
+.doctor-view-appintment-and-test-results button:hover{
+    opacity: 0.8;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+
+
+.doctor-upload-diagnosis{
+    background-color: #87CEEB;
+    width: 30%;
+    display: block;
+    margin-top: 15px;
+    margin-left: 35%;
+    padding: 1px;
+    text-align: center;
+    border-radius: 0px;
+}
+
+.doctor-upload-diagnosis h1{
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 0px; 
+}
+
+.icon3{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    padding: 0px;
+    
+}
+
+.doctor-upload-diagnosis button{
+    margin-top: 15px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
+.doctor-upload-diagnosis button:hover{
+    opacity: 0.8;
+    color: white;
+    font-family: Helvetica;
+    font-size: 10px;
+    cursor: pointer;
+}
